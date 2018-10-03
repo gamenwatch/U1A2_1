@@ -7,7 +7,7 @@
 package u1a2_variablevalues;
 import java.util.Scanner;
 /**
- *Jacob Lacey
+ *Jacob
  * Oct 1 2018
  * Practice the scanner utility
  */
